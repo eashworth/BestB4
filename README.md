@@ -11,7 +11,7 @@
 ### Front End Repository
 
 The front end repository for this project is available at: <br>
-https://github.com/eashworth/bestB4-Front-End/branches <br>
+https://github.com/eashworth/bestB4-Front-End <br>
 
 ### Project Description
 
